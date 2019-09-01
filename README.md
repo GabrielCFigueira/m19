@@ -1,6 +1,6 @@
 # Compiler for the m19 language
 
-See the manual for m19 [here](m19/m19.pdf)
+See the manual for m19 [here](m19.pdf)
 
 ## Requirements
 - Linux machine
