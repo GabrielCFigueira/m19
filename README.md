@@ -2,6 +2,12 @@
 
 See the manual for m19 [here](m19.pdf) (warning: portuguese)
 
+Authors: 
+
+[Gabriel Figueira](https://github.com/GabrielCFigueira)
+
+[Lívio Costa](https://github.com/LivioCosta)
+
 ## Requirements
 - Linux machine
 - flex(tested on 2.6.4), byacc(tested on 1.9), yasm(tested on 1.3.0), GNU ld(version 2.31.1)
