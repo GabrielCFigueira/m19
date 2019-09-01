@@ -21,7 +21,7 @@ for i in $tests; do
   else printf "${GREEN}PASSED$NC\n"; PASSED=$((PASSED+1))
 
   fi; 
-  rm $z*; #$j.asm; 
+  #rm $z*; #$j.asm; 
 done;
 
 printf "\n***TOTAL: $((PASSED+FAILED))***\n\n";
