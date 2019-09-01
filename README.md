@@ -55,7 +55,7 @@ First, generate assembly:
 This will place a file named "main.asm" in the main.m19 location.
 Now, use yasm to generate binary code (32 bit elf):
 ```
-yasm -felf32 main.m19
+yasm -felf32 main.asm
 ```
 It outputs "main.o". Now we just have to link it with ld:
 ```
